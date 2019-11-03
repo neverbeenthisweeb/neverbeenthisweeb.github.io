@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Rafi is currently indulged by ETL designs, data warehousing, and tasks automation done in Linux environment relied on Data Engineering principles. 
 
-[Link to another page](./another-page.html).
+Furthermore, He also reads stuff about mathematics and software craftmanship.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Here is a quick glimpse of his tech working experiences:
 
 # Header 1
 
