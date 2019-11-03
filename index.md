@@ -6,14 +6,20 @@ Rafi is currently indulged by ETL designs, data warehousing, and tasks automatio
 
 Here is a quick glimpse of his tech working experiences:
 
-# Data Engineer
+## Data Engineer
 
-## HappyFresh
+#### HappyFresh
 
-# Data Engineer Intern
+Oct 2019 - Present
 
-## Kudo - PT Kudo Teknologi Indonesia
+## Data Engineer Intern
 
-# Bot Developer
+#### Kudo - PT Kudo Teknologi Indonesia
 
-## Lubna.io
+Jun 2019 - Oct 2019 (5 mos)
+
+## Bot Developer
+
+#### Lubna.io
+
+Jan 2019 - May 2019 (5 mos)
